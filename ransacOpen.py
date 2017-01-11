@@ -29,3 +29,5 @@ simple case: robot data we were given
 take 0, 180 degree points, get midpoint, make line to 90 degree point returned ffrom data
 
 do regression, find average distance
+
+'''
